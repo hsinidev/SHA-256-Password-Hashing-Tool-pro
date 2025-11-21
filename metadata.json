@@ -1,0 +1,5 @@
+{
+  "name": "SHA-256 Password Hashing Tool",
+  "description": "A fast, secure, client-side SHA-256 hashing tool built with React and the Web Crypto API. Features a modern UI with an immersive animated background and prioritizes user privacy.",
+  "requestFramePermissions": []
+}
