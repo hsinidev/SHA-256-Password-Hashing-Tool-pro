@@ -19,8 +19,8 @@
   </p>
 
   <p>
-    <a href="https://SHA256.doodax.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-SHA256.doodax.com-blue?style=for-the-badge&logo=google-chrome" alt="Live Demo" />
+    <a href="https://doodax.com/tools/sha-256-hash-generator/index.html" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-blue?style=for-the-badge&logo=google-chrome" alt="Live Demo" />
     </a>
   </p>
   
